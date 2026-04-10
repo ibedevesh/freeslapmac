@@ -27,7 +27,7 @@
 
 ## Demo
 
-<video src="https://github.com/ibedevesh/freeslapmac/raw/main/demo.mp4" width="600" autoplay loop muted playsinline></video>
+https://github.com/ibedevesh/freeslapmac/blob/main/demo.mp4?raw=true
 
 ---
 
