@@ -49,7 +49,7 @@
 5. Enter your password once (needed for accelerometer access)
 6. Slap away!
 
-> **Why step 3?** macOS blocks apps that aren't from the App Store. This command removes the block. It's safe — you only need to do it once.
+> **Why step 3?** Apple charges $99/year for a developer certificate to skip this warning. We'd rather keep the app free than pass that cost on. This command just removes macOS's download block — it's safe and you only need to do it once.
 
 ## Features
 
