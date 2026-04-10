@@ -27,13 +27,7 @@
 
 ## Demo
 
-<p align="center">
-  <a href="https://github.com/ibedevesh/freeslapmac/releases/download/v1.1.0/freeslapmacdemo.mp4">
-    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge" alt="Watch Demo">
-  </a>
-</p>
-
-https://github.com/ibedevesh/freeslapmac/releases/download/v1.1.0/freeslapmacdemo.mp4
+<video src="https://github.com/ibedevesh/freeslapmac/raw/main/demo.mp4" width="600" autoplay loop muted playsinline></video>
 
 ---
 
