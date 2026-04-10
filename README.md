@@ -28,8 +28,8 @@
 ## Demo
 
 <p align="center">
-  <a href="https://youtube.com/shorts/IHmKLv7I38M">
-    <img src="https://img.youtube.com/vi/IHmKLv7I38M/0.jpg" width="300" alt="FreeSlapMac Demo">
+  <a href="https://youtube.com/shorts/k983Zi6lS64">
+    <img src="https://img.youtube.com/vi/k983Zi6lS64/0.jpg" width="300" alt="FreeSlapMac Demo">
     <br>
     <img src="https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" alt="Watch on YouTube">
   </a>
