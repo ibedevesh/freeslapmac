@@ -25,6 +25,18 @@
 
 ---
 
+## Demo
+
+<p align="center">
+  <a href="https://github.com/ibedevesh/freeslapmac/releases/download/v1.1.0/freeslapmacdemo.mp4">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Demo-Video-red?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
+
+https://github.com/ibedevesh/freeslapmac/releases/download/v1.1.0/freeslapmacdemo.mp4
+
+---
+
 ## Sound Modes
 
 | Mode | Description |
@@ -70,6 +82,18 @@
 1. Quit FreeSlapMac
 2. Delete from Applications
 3. Done
+
+---
+
+## Star History
+
+<p align="center">
+  <a href="https://star-history.com/#ibedevesh/freeslapmac&Date">
+    <img src="https://api.star-history.com/svg?repos=ibedevesh/freeslapmac&type=Date" width="600" alt="Star History Chart">
+  </a>
+</p>
+
+If you like FreeSlapMac, give it a ⭐ — it helps others find it!
 
 ---
 
